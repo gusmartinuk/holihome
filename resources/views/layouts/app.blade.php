@@ -34,7 +34,7 @@
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item">
-                        <a href="#" class="nav-link">Dashboard</a>
+                        <a href="#" class="nav-link">Dashboard (D)</a>
                         </li>
                         <li class="nav-item">
                         <a href="{{ route('transactions.index') }}" class="nav-link">Transactions</a>
